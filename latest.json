@@ -1,6 +1,6 @@
 {
-  "latest": "1.0.2",
+  "latest": "1.0.0",
   "severity": "normal",
-  "notes": "（実機確認用）時刻トリガーからのお知らせのテストです",
+  "notes": "",
   "url": ""
 }
